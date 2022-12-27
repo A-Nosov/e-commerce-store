@@ -1,0 +1,66 @@
+[
+    {
+        "name": "NIKE KD14",
+        "image": "https://i.postimg.cc/7PB9jb3Q/KD14.png",
+        "brand": "63a26e6664ae031c64638b78",
+        "category": "Мужское",
+        "description": "Баскетбольные кроссовки",
+        "price": 15510
+    },
+    {
+        "name": "KYRIE FLYTRAP IV EP",
+        "image": "https://i.postimg.cc/t4nB3yVv/KYRIE-FLYTRAP-IV.png",
+        "brand": "63a26e6664ae031c64638b78",
+        "category": "Мужское",
+        "description": "Баскетбольные кроссовки",
+        "price": 12990
+    },
+    {
+        "name": "NIKE LEBRON WITNESS VI",
+        "image": "https://i.postimg.cc/6QdzP0cd/LEBRON-WITNESS-VI.png",
+        "brand": "63a26e6664ae031c64638b78",
+        "category": "Мужское",
+        "description": "Баскетбольные кроссовки",
+        "price": 12990
+    },
+    {
+        "name": "ADIDAS D ROSE 773 2020",
+        "image": "https://i.postimg.cc/cC5c351N/D-ROSE-773-2020.png",
+        "brand": "63a26e6664ae031c64638b79",
+        "category": "Мужское",
+        "description": "Баскетбольные кроссовки",
+        "price": 9990
+    },
+    {
+        "name": "ADIDAS DAME 8",
+        "image": "https://i.postimg.cc/mrqQwp0L/DAME-8.png",
+        "brand": "63a26e6664ae031c64638b79",
+        "category": "Мужское",
+        "description": "Баскетбольные кроссовки",
+        "price": 17490
+    },
+    {
+        "name": "ADIDAS DAME 7 EXTPLY",
+        "image": "https://i.postimg.cc/05ZXxVsn/DAME-7-EXTPLY.png",
+        "brand": "63a26e6664ae031c64638b79",
+        "category": "Женское",
+        "description": "Баскетбольные кроссовки",
+        "price": 16990
+    },
+    {
+        "name": "PUMA FUSION NITRO",
+        "image": "https://i.postimg.cc/8544pzqc/FASION-NITRO.png",
+        "brand": "63a26e6664ae031c64638b7a",
+        "category": "Женское",
+        "description": "Баскетбольные кроссовки",
+        "price": 13990
+    },
+    {
+        "name": "CONVERSE ALL STAR BB JET MID",
+        "image": "https://i.postimg.cc/9Frb2V1X/ALL-STAR-BB-JET-MID.png",
+        "brand": "63a26e6664ae031c64638b7b",
+        "category": "Женское",
+        "description": "Баскетбольные кроссовки",
+        "price": 16100
+    }
+]

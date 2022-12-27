@@ -1,0 +1,6 @@
+{
+    "port": 8080,
+    "mongoUri": "mongodb+srv://A_Nosov:eCommerce-store-server@cluster0.saucpjv.mongodb.net/eCommerce?retryWrites=true&w=majority",
+    "accessSecret": "eCommerce secret key",
+    "refreshSecret": "eCommerce refresh secret key"
+}

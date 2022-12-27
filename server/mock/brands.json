@@ -1,0 +1,9 @@
+[
+    { "name": "Nike", "image": "https://i.postimg.cc/D0zRmgCh/nike.png" },
+    { "name": "Adidas", "image": "https://i.postimg.cc/BQXd0mLc/adidas.png" },
+    { "name": "Puma", "image": "https://i.postimg.cc/T1HFbDSD/puma.png" },
+    {
+        "name": "Converse",
+        "image": "https://i.postimg.cc/Pf6B9gx5/converse.png"
+    }
+]
